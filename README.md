@@ -1,2 +1,2 @@
 # todo-app
-A simple todo-app using React and NodeJs 
+A simple todo-app using React, NodeJs and MongoDB
